@@ -491,7 +491,7 @@ msgstr ""
 #: lutris/gui/application.py:92
 msgid "Your Linux distribution is too old. Lutris won't function properly."
 msgstr ""
-"Deine Linux-Verteilung ist zu alt. Lutris wird nicht ordnungsgemäß "
+"Deine Linux-Distribution ist zu alt. Lutris wird nicht ordnungsgemäß "
 "funktionieren."
 
 #: lutris/gui/application.py:97
@@ -1541,7 +1541,7 @@ msgid ""
 "By default, Lutris uses the directory of the executable."
 msgstr ""
 "Der Ort wovon das Spiel gestartet wird.\n"
-"Lutris nutzt standardmäßig den Verzeichnis des ausführbaren Teil des Spiels."
+"Lutris nutzt standardmäßig das Verzeichnis des ausführbaren Teil des Spiels."
 
 #: lutris/runners/dosbox.py:61
 msgid "none"
